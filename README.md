@@ -20,15 +20,15 @@
 </div>
 
 <h1 align="center">
-  Hi
+Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- <p>this is <span >SABBHA<span><p> 
+ <pre>this is SABBHA</pre> 
 </h1>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbha6&layout=compact"/>
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbha6"/> -->
    </p>
    <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=sabbha6&label=Profile%20views&color=ce9927&style=flat" alt="SABBHA" />
+   <img src="https://komarev.com/ghpvc/?username=sabbha6&label=Profile%20Views&color=00C090&style=for-the-badge" alt="SABBHA" />
     </p>
    <h4 align="center">
      I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
